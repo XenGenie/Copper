@@ -1,0 +1,9 @@
+[submodule "xShop"]
+	path = xShop
+	url = https://github.com/SuperDomX/xShop
+[submodule "xTreasurer"]
+	path = xTreasurer
+	url = https://github.com/SuperDomX/xTreasurer
+[submodule "xSupportTraining"]
+	path = xSupportTraining
+	url = https://github.com/SuperDomX/xSupportTraining
